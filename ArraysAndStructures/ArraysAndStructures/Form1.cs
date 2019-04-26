@@ -50,7 +50,11 @@ namespace ArraysAndStructures
 
         private void btnFindGrade_Click(object sender, EventArgs e)
         {
-            
+            int entGrade = Convert.ToInt32(txtScore.Text);
+            //if (entGrade >= Convert.ToInt32(grades[0][grd.points]))
+            //{
+
+            //}
         }
     }
 }
